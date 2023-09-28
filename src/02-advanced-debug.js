@@ -9,6 +9,7 @@ function goodPractices() {
     // use the debugger to find out!
     debugger
     let teamObj = game[gameKey]
+    debugger
     for (let teamKey in teamObj) {
       // are you ABSOLUTELY SURE what 'teamKey' is?
       // use debugger to find out!
